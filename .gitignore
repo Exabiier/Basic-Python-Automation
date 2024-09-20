@@ -1,2 +1,10 @@
 
 .DS_Store
+Thumbs.db
+.AppleDouble
+*.env
+.vscode/
+*.config
+node_modules/
+vendor/
+packages/
