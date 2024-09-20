@@ -67,7 +67,7 @@ def main():
         print("Error finding element:", e)
     
     driver.quit()
-
+ 
 if __name__ == "__main__":
     main()
 

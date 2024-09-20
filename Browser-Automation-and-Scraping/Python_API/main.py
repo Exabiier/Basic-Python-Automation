@@ -1,6 +1,8 @@
 import requests
 
-picker = input('Enter the stock symbol you want:')
+# Because the the market watch API is not free I must us the following. Stils need solution for bringing mutliple cvs data into one data format
+#  Just like Java you canvert data types in python with datatype() -> int()
+# picker = input('Enter the stock symbol you want:')
 from_date = input('Enter Start data in mm/dd/yyyy format:')
 to_date = input('Enter end data in mm/dd/yyyy format:')
 
